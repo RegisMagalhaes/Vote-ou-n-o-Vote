@@ -1,0 +1,13 @@
+C:\Users\samsung\Desktop\Senai\Backend\Lista\condicionais EX1\obj\Debug\netcoreapp3.1\condicionais EX1.csprojAssemblyReference.cache
+C:\Users\samsung\Desktop\Senai\Backend\Lista\condicionais EX1\obj\Debug\netcoreapp3.1\condicionais EX1.AssemblyInfoInputs.cache
+C:\Users\samsung\Desktop\Senai\Backend\Lista\condicionais EX1\obj\Debug\netcoreapp3.1\condicionais EX1.AssemblyInfo.cs
+C:\Users\samsung\Desktop\Senai\Backend\Lista\condicionais EX1\obj\Debug\netcoreapp3.1\condicionais EX1.csproj.CoreCompileInputs.cache
+C:\Users\samsung\Desktop\Senai\Backend\Lista\condicionais EX1\bin\Debug\netcoreapp3.1\condicionais EX1.exe
+C:\Users\samsung\Desktop\Senai\Backend\Lista\condicionais EX1\bin\Debug\netcoreapp3.1\condicionais EX1.deps.json
+C:\Users\samsung\Desktop\Senai\Backend\Lista\condicionais EX1\bin\Debug\netcoreapp3.1\condicionais EX1.runtimeconfig.json
+C:\Users\samsung\Desktop\Senai\Backend\Lista\condicionais EX1\bin\Debug\netcoreapp3.1\condicionais EX1.runtimeconfig.dev.json
+C:\Users\samsung\Desktop\Senai\Backend\Lista\condicionais EX1\bin\Debug\netcoreapp3.1\condicionais EX1.dll
+C:\Users\samsung\Desktop\Senai\Backend\Lista\condicionais EX1\bin\Debug\netcoreapp3.1\condicionais EX1.pdb
+C:\Users\samsung\Desktop\Senai\Backend\Lista\condicionais EX1\obj\Debug\netcoreapp3.1\condicionais EX1.dll
+C:\Users\samsung\Desktop\Senai\Backend\Lista\condicionais EX1\obj\Debug\netcoreapp3.1\condicionais EX1.pdb
+C:\Users\samsung\Desktop\Senai\Backend\Lista\condicionais EX1\obj\Debug\netcoreapp3.1\condicionais EX1.genruntimeconfig.cache
